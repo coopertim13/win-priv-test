@@ -1,0 +1,1 @@
+i686-w64-mingw32-gcc user.c -lws2_32 -o exp.tmp
